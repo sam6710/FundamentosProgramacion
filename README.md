@@ -1,2 +1,2 @@
 # FundamentosProgramacion
-Repositorio para la asignatura Fundamentos de Programacion 2º ASIR
+Repositorio para la asignatura Fundamentos de Programación 2º ASIR
