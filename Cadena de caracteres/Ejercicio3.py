@@ -1,2 +1,2 @@
 nombre = input("Introduzca su nombre: ")
-print(f"{nombre} tiene {len(nombre)} caracteres.")
+print(f"{nombre.upper()} tiene {len(nombre)} caracteres.")
