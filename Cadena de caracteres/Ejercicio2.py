@@ -3,10 +3,11 @@ nombreCompleto = ""
 
 print(nombre.upper())
 print(nombre.lower())
+print(nombre.title())
 
-palabras = nombre.split()
-for palabra in palabras:
-    palabra=palabra.capitalize()
-    nombreCompleto+=palabra + " "
+# palabras = nombre.split()
+# for palabra in palabras:
+#     palabra=palabra.capitalize()
+#     nombreCompleto+=palabra + " "
 
-print(nombreCompleto)
+# print(nombreCompleto)
