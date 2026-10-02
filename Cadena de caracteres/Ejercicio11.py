@@ -7,7 +7,7 @@ if "," in precioStr:
 if "'" in precioStr:
     precioStr = precioStr.replace("'", ".")
 
-precio = float(precioStr);
+precio = float(precioStr)
 
 coste = precio * unidades
 
