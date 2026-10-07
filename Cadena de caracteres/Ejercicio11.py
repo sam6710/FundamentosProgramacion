@@ -11,4 +11,4 @@ precio = float(precioStr)
 
 coste = precio * unidades
 
-print(f"Nombre:{nombre} \nPrecio:{precio:6.2f} \nUnidades: {unidades:3d} \nCosteTotal:{coste:8.2f}")
+print(f"Nombre:{nombre} \nPrecio:{precio:9.2f} \nUnidades: {unidades:3d} \nCosteTotal:{coste:8.2f}")
