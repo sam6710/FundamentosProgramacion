@@ -1,5 +1,5 @@
-num1 = int(input("Escriba un número: "))
-num2 = int(input("Escriba otro número: "))
+num1 = float(input("Escriba un número: "))
+num2 = float(input("Escriba otro número: "))
 
 if num2 == 0:
     print("FALLO!")
