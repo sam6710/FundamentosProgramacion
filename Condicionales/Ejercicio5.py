@@ -1,5 +1,5 @@
 edad = int(input("Escriba su edad: "))
-ingresos = int(input("Escriba sus ingresos: "))
+ingresos = input("Escriba sus ingresos: ")
 
 if edad > 16 and ingresos >= 1000:
     print("Tienes que tributar.")
