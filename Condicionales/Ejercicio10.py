@@ -1,4 +1,4 @@
-veggie = input("¿Quiere la pizza vegetariana?(S/N):")
+veggie = input("¿Quiere la pizza vegetariana?(S/N): ")
 
 print("Solo puede escoger un ingrediente.")
 print("Escoga el número del ingrediente:")

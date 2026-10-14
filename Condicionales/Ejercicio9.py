@@ -1,4 +1,4 @@
-edad = input("Escriba su renta anual: ")
+edad = input("Introduzca su edad: ")
 
 if edad < 4:
     print("Entra gratis.")

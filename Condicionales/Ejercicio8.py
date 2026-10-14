@@ -1,4 +1,4 @@
-rendimiento = float(input("Indique el nivel de rendimiento:"))
+rendimiento = float(input("Indique el nivel de rendimiento: "))
 
 if rendimiento == 0.0:
     print("Tu rendimiento es inaceptable.")
