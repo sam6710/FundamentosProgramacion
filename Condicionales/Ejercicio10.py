@@ -5,14 +5,14 @@ print("Escoga el número del ingrediente:")
 
 if veggie.lower() == "s":
     ingrediente = input("1-Pimiento / 2-Tofu: ")
-    print("La pizza elegida es vegetariana y tiene los sigueintes ingredientes: \nMozzarella")
+    print("La pizza elegida es vegetariana y tiene los sigueintes ingredientes: \nMozzarella\nTomate")
     if ingrediente == "1":
         print("Pimiento")
     else:
         print("Tofu")
 else:
     ingrediente = input("1-Peperoni / 2-Jamón / 3-Salmón: ")
-    print("La pizza elegida no es vegetariana y tiene los siguientes ingredientes: \nMozzarella")
+    print("La pizza elegida no es vegetariana y tiene los siguientes ingredientes: \nMozzarella\nTomate")
     if ingrediente == "1":
         print("Peperoni")
     elif ingrediente == "2":
